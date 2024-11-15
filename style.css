@@ -64,7 +64,7 @@ nav li:hover:after {
 }
 
 nav button {
-  display: ;
+
   padding: 5px 10px;
   border-radius: 6px;
   border: none;
@@ -344,8 +344,6 @@ footer {
   padding: 10px 0px;
 
   display: flex;
-}
-footer div {
 }
 
 footer .more {
